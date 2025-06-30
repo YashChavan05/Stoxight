@@ -43,7 +43,7 @@ Predict future stock prices using LSTM neural networks and visualize results wit
 - Click Predict to view results
 
 ## Screenshots
-![App Screenshot](screenshots/app.png)
+![App Screenshot](app.png)
 
 ## Deploy on Streamlit Cloud
 - Ensure all dependencies are in `requirements.txt`
